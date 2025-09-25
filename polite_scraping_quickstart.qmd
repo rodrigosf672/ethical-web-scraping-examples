@@ -10,7 +10,7 @@ jupyter: python3
 
 ## Overview
 
-This quick guide shows *succinct, practical* Python patterns for respectful scraping:
+This quick guide shows *succinct, practical* Python patterns for respectful scraping. This is for educational purposes only.
 
 1. Respect `robots.txt` (Example 1)  
 2. Respect infrastructure — rate limits & backoff (Example 2)  
