@@ -1,0 +1,28 @@
+# Core HTTP & parsing
+requests==2.32.5
+aiohttp==3.12.15
+PyYAML==6.0.2
+
+# Jupyter + interactive execution
+ipykernel==6.30.1
+nbformat==5.10.4
+nbclient==0.10.2
+
+# Quarto + notebook dependencies
+jupyter_core==5.8.1
+jupyter_client==8.6.3
+traitlets==5.14.3
+tornado==6.5.2
+
+# Utilities
+urllib3==2.5.0
+charset-normalizer==3.4.3
+certifi==2025.8.3
+idna==3.10
+
+# Async helpers
+multidict==6.6.4
+yarl==1.20.1
+frozenlist==1.7.0
+aiosignal==1.4.0
+aiohappyeyeballs==2.6.1
